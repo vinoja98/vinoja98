@@ -56,7 +56,7 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/vinoja-rathnayake/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.hackerrank.com/vinoja"><img src="https://img.icons8.com/windows/48/000000/hackerrank.png"/></a>
-<a href = "https://stackoverflow.com/users/15336971/vinoja"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width='10%'/></a>
+<a href = "https://stackoverflow.com/users/15336971/vinoja"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width='48'/></a>
 </p>
 
 <!-- ## ❤ Views and Followers
