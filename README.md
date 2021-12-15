@@ -6,13 +6,9 @@
 
 ## 🙋 About Me
 
-- 🔭 I’m currently working on **Hotel & Restaurant MIS**
-
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Erlang**
 
 - 👯 I’m looking to collaborate on **Real World Projects**
-
-- 📫 How to reach me **vinoja.18@cse.mrt.ac.lk**
 
 <br>
 
