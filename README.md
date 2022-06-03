@@ -1,12 +1,10 @@
 <div align="center"><a href="#"><img width="30%" height="auto" src="https://image.freepik.com/free-vector/cute-girl-working-laptop-cartoon_138676-2958.jpg" height="100px"/></a></div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vinoja Rathnayake</h1>
+<h1 align="center">Hi, I'm Vinoja Rathnayake</h1>
 <h3 align="center">I am a hard worker and a highly motivated individual who has a passion for Computer Science & Engineering.</h3>
 <br>
 
 ## 🙋 About Me
-
-- 🌱 I’m currently learning **Erlang**
 
 - 👯 I’m looking to collaborate on **Real World Projects**
 
